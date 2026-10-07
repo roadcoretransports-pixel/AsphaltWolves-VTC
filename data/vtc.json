@@ -1,15 +1,44 @@
 {
-  "success": false,
+  "success": true,
   "source": "TruckersMP",
-  "status": "not_updated",
+  "status": "live",
   "vtc": {
     "id": 92769,
-    "name": "AsphaltWolves",
+    "name": "AspahltWolves",
     "url": "https://truckersmp.com/vtc/92769",
-    "driverCount": 0
+    "driverCount": 1
   },
-  "members": [],
-  "news": [],
+  "members": [
+    {
+      "id": 546649,
+      "username": "[GER] Jezza",
+      "role": "Owner",
+      "joinDate": "2026-10-04 14:35:44",
+      "steamId": 76561198011874674,
+      "truckersmpId": 546649
+    }
+  ],
+  "news": [
+    {
+      "id": 71284,
+      "title": "Gründung der AsphaltWolves",
+      "description": "",
+      "date": null,
+      "url": null
+    }
+  ],
   "events": [],
-  "updatedAt": null
+  "updatedAt": "2026-10-07T21:09:20.496257+00:00",
+  "diagnostics": {
+    "vtc": true,
+    "members": true,
+    "news": true,
+    "events": true,
+    "httpStatus": {
+      "vtc": 200,
+      "members": 200,
+      "news": 200,
+      "events": 200
+    }
+  }
 }
