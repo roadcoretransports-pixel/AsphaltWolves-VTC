@@ -35,6 +35,8 @@ API_BASE = "https://api.truckersmp.com/v2"
 
 VTC_URL = f"https://truckersmp.com/vtc/{VTC_ID}"
 
+VTC_NAME = "AsphaltWolves"
+
 OUTPUT_FILE = Path("data/vtc.json")
 
 TIMEOUT = 30
