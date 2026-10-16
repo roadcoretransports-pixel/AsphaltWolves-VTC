@@ -25,10 +25,17 @@
       "description": "",
       "date": null,
       "url": null
+    },
+    {
+      "id": 71476,
+      "title": "Halloween mit den AsphaltWolves",
+      "description": "",
+      "date": null,
+      "url": null
     }
   ],
   "events": [],
-  "updatedAt": "2026-10-16T07:11:36.818676+00:00",
+  "updatedAt": "2026-10-16T12:23:31.527301+00:00",
   "diagnostics": {
     "vtc": true,
     "members": true,
