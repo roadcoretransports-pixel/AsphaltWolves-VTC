@@ -32,10 +32,17 @@
       "description": "",
       "date": null,
       "url": null
+    },
+    {
+      "id": 71639,
+      "title": "AsphaltWolves sucht neues Personal",
+      "description": "",
+      "date": null,
+      "url": null
     }
   ],
   "events": [],
-  "updatedAt": "2026-10-24T16:21:37.471832+00:00",
+  "updatedAt": "2026-10-24T18:53:47.668080+00:00",
   "diagnostics": {
     "vtc": true,
     "members": true,
