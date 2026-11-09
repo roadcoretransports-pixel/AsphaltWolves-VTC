@@ -6,7 +6,7 @@
     "id": 92769,
     "name": "AsphaltWolves",
     "url": "https://truckersmp.com/vtc/92769",
-    "driverCount": 1
+    "driverCount": 2
   },
   "members": [
     {
@@ -16,6 +16,14 @@
       "joinDate": "2026-10-04 14:35:44",
       "steamId": 76561198011874674,
       "truckersmpId": 546649
+    },
+    {
+      "id": 552156,
+      "username": "tim_hochwieser",
+      "role": "Fahrer",
+      "joinDate": "2026-11-09 20:55:51",
+      "steamId": 76561199101141884,
+      "truckersmpId": 552156
     }
   ],
   "news": [
@@ -42,7 +50,7 @@
     }
   ],
   "events": [],
-  "updatedAt": "2026-11-09T10:37:37.777209+00:00",
+  "updatedAt": "2026-11-09T21:03:35.323566+00:00",
   "diagnostics": {
     "vtc": true,
     "members": true,
